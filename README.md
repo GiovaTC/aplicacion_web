@@ -1,3 +1,3 @@
-# aplicacion_web
+# aplicacion web
 
-![image](https://github.com/user-attachments/assets/5d7da563-3cd6-468f-95e6-81015315ea54)
+![image](https://github.com/user-attachments/assets/ec9ed091-add9-48dd-ba75-5ca1894e7f88)
